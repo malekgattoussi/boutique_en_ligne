@@ -1,0 +1,95 @@
+#logout{
+    background-color: cornsilk;
+}
+.button{
+    display: block;
+    position: absolute;
+    padding-left: 30%;
+    top: 16%;
+    letter-spacing: 30px;
+  }
+  .ajout{
+      font-size: 43px;
+      color: white;
+      background-color: blue;
+      border-color: blue;
+  }
+  .supp{
+    font-size: 43px;
+    color: white;
+    background-color: blue;
+    border-color: blue;
+}
+.modif{
+    font-size: 43px;
+    color: white;
+    background-color: blue;
+    border-color: blue;
+}
+.tabl{
+    position: absolute;
+    display: block;
+    top: 30%;
+    right: 32%;
+    font-size: 25px;
+}
+.hidd{
+    font-size: 40px;
+    color: red;
+    position: relative;
+    left: 37%;
+    top: 149px;
+}
+
+.liss{
+    font-size: 23px;
+    background-color: deepskyblue;
+    color: white;
+    position: absolute;
+    right: 25px;
+    top: 89%;
+
+}
+
+
+.p2{
+   
+    right: 2%;
+    width: 156px;
+    top: 1%;
+    position: relative;
+    height: 184px;
+    padding-left: 22px;
+}
+.tablo{
+    width: 42%;
+    position: absolute;
+    right: 28%;
+    top: 33%;
+    height: 49%;
+}
+body{
+    background: url(pic.jpg)no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -moz-background-size:cover;
+    background-size: cover;
+}
+
+h2{
+    position: absolute;
+    padding-left: 35%;
+    top: 82%;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
